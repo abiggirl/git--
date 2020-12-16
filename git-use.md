@@ -1,5 +1,5 @@
 ## git使用前配置
-配置提交人姓名 git config --global user.name;
+配置提交人姓名 'git config --global user.name';
 配置提交人邮箱 git config --global user.email
 查看修改 git config --list
 ## 提交步骤
