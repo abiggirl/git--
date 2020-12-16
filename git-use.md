@@ -12,6 +12,6 @@ git log 查看提交记录
 用暂存区文件覆盖工作目录中的文件： git checkout 文件
 将文件从暂存区删除： git rm --cached 文件
 将git仓库中指定的更新记录恢复出来，并且覆盖暂存区和工作目录：git rest --hard commitID
-###he
+### he
 
 
